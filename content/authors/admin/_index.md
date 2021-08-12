@@ -1,77 +1,40 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
 role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
+interests: []
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - name: Geschwister Scholl Institute of Political Science, University of Munich
+    url: https://www.en.gsi.uni-muenchen.de/index.html
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
+    - course: PhD in Government
+      institution: University of Essex
+      year: 2020
+    - course: MSc in Conflict Resolution
+      institution: University of Essex
+      year: 2018
+    - course: BA in Cultural and Social Anthropology
+      institution: University of Munich
+      year: 2017
+    - course: BA in Political Science
+      institution: University of Munich
+      year: 2015
+superuser: true
 highlight_name: false
+title: Nelson Bighetti
+email: ""
 ---
+I am a Postdoctoral Researcher at the Geschwister Scholl Institute of Political Science, University of Munich. I received my PhD from the Department of Government at the University of Essex (2020) where I also obtained a MSc in Conflict Resolution (2018). In addition, I hold BAs in Cultural and Social Anthropology (2017) as well as Political Science (2015) from the University of Munich.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+In my research, I use quantitative methods to study questions relating to political violence. More specifically, I am interested in the dynamics of armed intrastate conflict, the membership of rebel groups, external intervention in armed conflict, and civil-military relations. Some of my work on these topics is accepted, forthcoming or published in the Journal of Conflict Resolution, Cooperation and Conflict, Conflict Management and Peace Science, Foreign Policy Analysis, International Interactions, Defence and Peace Economics, Armed Forces & Society, Civil Wars, and the Political Studies Review.
